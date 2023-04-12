@@ -39,7 +39,7 @@ const Dashboard = () => {
             <Tooltip />
           </PieChart>
         </div>
-        <h2 className="text-4xl font-bold mb-12 text-center text-red-600">My Assignment Marks PieChart</h2>
+        <h2 className="text-4xl font-bold mb-12 text-center text-red-600">*** My Assignment Marks PieChart ***</h2>
     </div>
   );
 };
