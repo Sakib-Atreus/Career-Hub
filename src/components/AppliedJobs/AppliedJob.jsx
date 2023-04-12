@@ -16,8 +16,10 @@ const AppliedJob = () => {
   // get all Jobs data using context api
   const allJobs = useContext(JobDataContext);
   let jobCart = [];
-  // get storedJobs dat from local storage
+
+  // get storedJobs data from local storage
   const storedJob = getJobCart();
+  
   // filter out the applied jobs from allJobs
   useEffect(() => {
     for (const id in storedJob) {
