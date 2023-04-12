@@ -1,19 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&width=435&lines=Evolve+Spot;Apply+your+job+today!;React+Application)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&width=435&lines=Evolve+Soft;Apply+your+job+today!;React+Application)](https://git.io/typing-svg)
 
 <h3> Live Link :  </h3>
 
 <h3>Feature Overview</h3>
 
 - Make it for easily know about job circular
+- The easiest way to look for and apply to a job is through online
 - This website let's you find your relatable job
-- Can apply job from featured job
-- Available applied job section
-- Available blog section 
-- Available Job details section
-
-<h3>Packages Used</h3>
-
-- Vite React
-- React Router
-- Tailwind Css
-- Recharts
+- Available applied job section, blog section
+- And you can see available all Job details
